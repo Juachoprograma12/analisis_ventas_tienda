@@ -42,7 +42,7 @@ Proyecto realizado por **Juan Jose Pérez Cordero**
 📚 **Data Science Student**  
 💼 Proyecto del **Challenge Data Science – Alura Latam**
 
---
+---
 
 🌐 **Repositorio en GitHub:** [analisis_ventas_tienda](https://github.com/Juachoprograma12/analisis_ventas_tienda)
 
