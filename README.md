@@ -38,6 +38,11 @@ El análisis determinó que la **Tienda 3** es la más conveniente para vender l
 ---
 
 ## 🧭 **Autor**
-Proyecto realizado por **Juan José Pérez Cordero**  
-📚 Estudiante de **Análisis de Datos**  
+Proyecto realizado por **Juan Jose Pérez Cordero**  
+📚 **Data Science Student**  
 💼 Proyecto del **Challenge Data Science – Alura Latam**
+
+--
+
+🌐 **Repositorio en GitHub:** [analisis_ventas_tienda](https://github.com/Juachoprograma12/analisis_ventas_tienda)
+
